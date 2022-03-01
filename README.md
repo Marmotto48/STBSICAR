@@ -1,20 +1,8 @@
 # STBSICAR
 
 <details>
-  <summary>To run the project access "stbSicar" folder and run "npm start"</summary>
-  
-      <span>
-       <strong>Our goal is</strong> 
-         to create a friendly website from scratch with trendy design (vector art ,comfortable colors and better user experience and design).
-         our solutions and what we used :
-     </span>
-    <br />
-      <ul>
-        <li> REACT for the frontend  </li>
-        <li> Strapi for the backend. </li>   
-      </ul>
-     
-</details>
+  <>To run the project access "stbSicar" folder and run "npm start"</summary>
+    </details>
 
 cd stbSicar
  npm start
@@ -29,7 +17,9 @@ cd stbSicar
 
 Our goal is to create a friendly website from scratch with trendy design (vector art ,comfortable colors and better user experience and design).
 our solutions and what we used :
-        
+        Design not friendly to use
+- Bad user interface and experience 
+- Colors are not comfortable to the eyes
 What we have accomplished
          - Better and more trendy design
          - Better user experience
